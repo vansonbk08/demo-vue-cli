@@ -1,7 +1,7 @@
 {
-  "name": "vue-cli-example",
+  "name": "demo-vue-cli",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "demo-vue-cli project",
   "author": "vansonbk08 <vansonbk08@gmail.com>",
   "private": true,
   "scripts": {
