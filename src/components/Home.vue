@@ -9,7 +9,7 @@ export default {
   name: 'Home',
   data () {
     return {
-      msg: 'Home page'
+      msg: 'Home page Test Travis CI'
     }
   }
 }
